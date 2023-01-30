@@ -27,6 +27,7 @@ public class Test
             Thread.sleep(5000);
             driver.close();
             System.out.println("Welcome Java");
+            System.out.println("Good job");
         }
     }
 }
