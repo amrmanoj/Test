@@ -26,7 +26,6 @@ public class Test
             driver.get("http://www.flipkart.com");
             Thread.sleep(5000);
             driver.close();
-
             System.out.println("Welcome Java");
         }
     }
